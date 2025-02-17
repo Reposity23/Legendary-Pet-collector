@@ -1,0 +1,5 @@
+com\petsimulator\model\Pet.class
+com\petsimulator\PetSimulatorBot.class
+com\petsimulator\model\Pet$Rarity.class
+com\petsimulator\sorting\SortingAlgorithms.class
+com\petsimulator\Main.class
