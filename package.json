@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc --jsx react-jsx && vite build"
     "preview": "vite preview",
     "start:bot": "java -jar target/telegram-bot.jar"
   },
